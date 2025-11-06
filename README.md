@@ -24,19 +24,6 @@ The main goal was to recreate the classic **Minesweeper** mechanics — revealin
 - Win/lose condition detection.  
 - Command-line interaction.
 
-## ⚙️ File Description
 
-```
-minesweeper.X68     # Assembly source code of the game
-.gitattributes       # Git configuration file
-```
-
-
-
-## 👩‍💻 Author
-
-Developed by **Cristina Alarcón**  
-
----
 
 > *This project was a fun challenge to understand game logic and data handling at the lowest possible level — directly in Assembly.*
